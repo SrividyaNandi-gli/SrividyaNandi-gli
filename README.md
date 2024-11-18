@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **SrividyaNandi-gli/SrividyaNandi-gli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👋 Hi, I’m Srividya Nandi, a GIS Data Analyst and Data Analyst with over 4 years of experience in spatial data analysis, data visualization, and business intelligence.
